@@ -1,5 +1,5 @@
 # trabajo-de-tesis-mecatronica
-Este código fue desarollado para controlar el microcontrolador del trabajo que me otorgó el grado de ingeniero mecatrónico cuyo nombre de tesis es "DETECTOR PARA UBICAR MATERIAL DE TUBERIAS Y VARILLAS EN EL INTERIOR DE UNA ESTRUCTURA
+Este código fue desarollado para controlar el microcontrolador del trabajo que otorgó el grado de ingeniero mecatrónico a Bryan Montiel Ortega y Carlos Esquivel Dávila.El nombre de tesis es "DETECTOR PARA UBICAR MATERIAL DE TUBERIAS Y VARILLAS EN EL INTERIOR DE UNA ESTRUCTURA
 
 En términos generales, este trabajo permite al usuario detectar metales y no metales a través de un dispositivo con una pantalla táctil.
 
